@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo Semua!
+perkenalkan nama saya **Felix**.<br>
+Saya merupakan seorang pelajar di Universitas Multi Data Palembang Angkatan 2023.<br>
+
+
 
 <!--
 **FelixHu03/FelixHu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
